@@ -9,12 +9,12 @@
 ## 1. Visibilidade do Status do Sistema 🌱
 - Mantenha os usuários informados sobre o que está acontecendo no sistema através de feedback apropriado e em tempo hábil.
 > O site "SIGA" não oferece um feedback para o usuário quando clicamos em "Matrícula" e ela está com o status "(fechada)".
-  ![Exemplo Negativo de Visibilidade do Status do Sistema](/IHC/imagens/siga.png)
+  ![Exemplo Negativo de Visibilidade do Status do Sistema](/IHC/imagens/siga1.png)
 
 ## 2. Correspondência entre o Sistema e o Mundo Real 🌱
 - Utilize linguagem e conceitos familiares aos usuários e siga convenções do mundo real para facilitar a compreensão.
-- Exemplo Negativo: ![Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real](imagem2.png)
-  - Um site de saúde que usa terminologia médica complexa que os pacientes não entendem.
+> O site "SIGA" utiliza termos de difícil compreensão para os novos usuários, termos como PP e PR não são de conhecimento geral.
+  ![Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real](IHC/imagens/siga2.png)
 
 ## 3. Controle e Liberdade do Usuário 🌱
 - Forneça saídas claras e marcadas para que os usuários possam desfazer ações indesejadas.
