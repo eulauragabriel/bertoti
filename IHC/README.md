@@ -14,12 +14,12 @@
 ## 2. Correspondência entre o Sistema e o Mundo Real 🌱
 - Utilize linguagem e conceitos familiares aos usuários e siga convenções do mundo real para facilitar a compreensão.
 > O site "SIGA" utiliza termos de difícil compreensão para os novos usuários, termos como PP e PR não são de conhecimento geral.
-  ![Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real](IHC/imagens/siga2.png)
+  ![Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real](/IHC/imagens/siga2.png)
 
 ## 3. Controle e Liberdade do Usuário 🌱
 - Forneça saídas claras e marcadas para que os usuários possam desfazer ações indesejadas.
-- Exemplo Negativo: ![Exemplo Negativo de Controle e Liberdade do Usuário](imagem3.png)
-  - Um site de inscrição que não possui a opção de cancelar o cadastro, deixando os usuários presos em um processo indesejado.
+> O aplicativo "Duolingo" para Android não permite que o usuário delete sua conta, só sendo possível através de um IOS ou Desktop.
+> <img src="/IHC/imagens/duolingo2.jpg" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=400> <img src="/IHC/imagens/duolingo1.png" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=400>
 
 ## 4. Consistência e Padrões 🌱
 - Mantenha consistência dentro do produto e siga padrões estabelecidos pela indústria.
