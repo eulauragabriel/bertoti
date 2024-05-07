@@ -51,6 +51,10 @@
 > A plataforma de cursos "Curso em vídeo" sobrecarrega as páginas com anúncios desnecessários, distraíndo os usuários do conteúdo principal e até mesmo os confundindo.
 >
 > <img src="/IHC/imagens/cursoEmVídeo1.png" alt="Exemplo Negativo de Design Estético e Minimalista" width=auto height=300><img src="/IHC/imagens/cursoEmVídeo2.png" alt="Exemplo Negativo de Design Estético e Minimalista" width=auto height=300>
+>
+> O site de compras "Shein" possui uma interface muito poluída com várias informações juntas que não se conectam, o que faz com que o usuário fique confuso.
+>
+> <img src="/IHC/imagens/shein.png" alt="Exemplo Negativo de Design Estético e Minimalista" width=auto height=300>
 
 ## 9. Ajuda os Usuários a Reconhecer, Diagnosticar e Corrigir Erros 🌱
 - Forneça mensagens de erro claras e soluções construtivas.
