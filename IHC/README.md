@@ -48,8 +48,9 @@
 
 ## 8. Design Estético e Minimalista 🌱
 - Mantenha o design focado no essencial e evite elementos irrelevantes.
-- Exemplo Negativo: ![Exemplo Negativo de Design Estético e Minimalista](imagem8.png)
-  - Um site de notícias que sobrecarrega as páginas com anúncios e elementos desnecessários, distraíndo os usuários do conteúdo principal.
+> A plataforma de cursos "Curso em vídeo" sobrecarrega as páginas com anúncios desnecessários, distraíndo os usuários do conteúdo principal e até mesmo os confundindo.
+>
+> <img src="/IHC/imagens/cursoEmVídeo1.png" alt="Exemplo Negativo de Design Estético e Minimalista" width=auto height=300><img src="/IHC/imagens/cursoEmVídeo2.png" alt="Exemplo Negativo de Design Estético e Minimalista" width=auto height=300>
 
 ## 9. Ajuda os Usuários a Reconhecer, Diagnosticar e Corrigir Erros 🌱
 - Forneça mensagens de erro claras e soluções construtivas.
