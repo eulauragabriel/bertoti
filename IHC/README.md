@@ -43,8 +43,9 @@
 
 ## 7. Flexibilidade e Eficiência de Uso 🌱
 - Ofereça atalhos e personalizações para usuários experientes.
-- Exemplo Negativo: ![Exemplo Negativo de Flexibilidade e Eficiência de Uso](imagem7.png)
-  - Um site de software que não oferece opções de personalização da interface, dificultando o uso para usuários avançados.
+> A plataforma "Amazon" que não oferece opções de personalização de tema escuro da interface, dificultando o uso para usuários avançados.
+>
+> <img src="/IHC/imagens/amazon.png" alt="Exemplo Negativo de Flexibilidade e Eficiência de uso" width=auto height=300 />
 
 ## 8. Design Estético e Minimalista 🌱
 - Mantenha o design focado no essencial e evite elementos irrelevantes.
