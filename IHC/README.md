@@ -9,27 +9,32 @@
 ## 1. Visibilidade do Status do Sistema 🌱
 - Mantenha os usuários informados sobre o que está acontecendo no sistema através de feedback apropriado e em tempo hábil.
 > O site "SIGA" não oferece um feedback para o usuário quando clicamos em "Matrícula" e ela está com o status "(fechada)".
+> 
 > <img src="/IHC/imagens/siga1.png" alt="Exemplo Negativo de Visibilidade do Status do Sistema" width=auto height=300>
 
 ## 2. Correspondência entre o Sistema e o Mundo Real 🌱
 - Utilize linguagem e conceitos familiares aos usuários e siga convenções do mundo real para facilitar a compreensão.
 > O site "SIGA" utiliza termos de difícil compreensão para os novos usuários, termos como PP e PR não são de conhecimento geral.
+> 
 > <img src="/IHC/imagens/siga2.png" alt="Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real" width=auto height=300>
 
 ## 3. Controle e Liberdade do Usuário 🌱
 - Forneça saídas claras e marcadas para que os usuários possam desfazer ações indesejadas.
 > O aplicativo "Duolingo" para Android não permite que o usuário delete sua conta, só sendo possível através de um IOS ou Desktop.
+> 
 > <img src="/IHC/imagens/duolingo2.jpg" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=300> <img src="/IHC/imagens/duolingo1.png" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=300>
 
 ## 4. Consistência e Padrões 🌱
 - Mantenha consistência dentro do produto e siga padrões estabelecidos pela indústria.
 > A plataforma "Carlos Chagas CNPq" conta com um layout e organização inconsistente das páginas.
+> 
 > <img src="/IHC/imagens/carlosChagas1.png" alt="Exemplo Negativo de Consistência e Padrões" width=auto height=300> <img src="/IHC/imagens/carlosChagas2.png" alt="Exemplo Negativo de Consistência e Padrões" width=auto height=300>
 
 ## 5. Prevenção de Erros 🌱
 - Evite problemas antes que eles ocorram, eliminando condições propensas a erros ou fornecendo opções de confirmação.
-- Exemplo Negativo: ![Exemplo Negativo de Prevenção de Erros](imagem5.png)
-  - Um site de formulário que permite que os usuários enviem informações incompletas sem avisá-los sobre os campos obrigatórios.
+> O aplicativo "TOP" permite que o usuário envie um formulário incompleto com suas informações essenciais na hora de solicitar seu cartão de transporte. Mesmo que o usuário envie os dados incompletos, o aplicativo devolve a mensagem de sucesso.
+> 
+> <img src="/IHC/imagens/top.jpg" alt="Exemplo Negativo de Prevenção de Erros" width=auto height=300>
 
 ## 6. Reconhecimento em Vez de Memorização 🌱
 - Reduza a carga cognitiva dos usuários, tornando elementos e opções visíveis.
