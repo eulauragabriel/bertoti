@@ -9,22 +9,22 @@
 ## 1. Visibilidade do Status do Sistema 🌱
 - Mantenha os usuários informados sobre o que está acontecendo no sistema através de feedback apropriado e em tempo hábil.
 > O site "SIGA" não oferece um feedback para o usuário quando clicamos em "Matrícula" e ela está com o status "(fechada)".
-  ![Exemplo Negativo de Visibilidade do Status do Sistema](/IHC/imagens/siga1.png)
+> <img src="/IHC/imagens/siga1.png" alt="Exemplo Negativo de Visibilidade do Status do Sistema" width=auto height=300>
 
 ## 2. Correspondência entre o Sistema e o Mundo Real 🌱
 - Utilize linguagem e conceitos familiares aos usuários e siga convenções do mundo real para facilitar a compreensão.
 > O site "SIGA" utiliza termos de difícil compreensão para os novos usuários, termos como PP e PR não são de conhecimento geral.
-  ![Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real](/IHC/imagens/siga2.png)
+> <img src="/IHC/imagens/siga2.png" alt="Exemplo Negativo de Correspondência entre o Sistema e o Mundo Real" width=auto height=300>
 
 ## 3. Controle e Liberdade do Usuário 🌱
 - Forneça saídas claras e marcadas para que os usuários possam desfazer ações indesejadas.
 > O aplicativo "Duolingo" para Android não permite que o usuário delete sua conta, só sendo possível através de um IOS ou Desktop.
-> <img src="/IHC/imagens/duolingo2.jpg" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=400> <img src="/IHC/imagens/duolingo1.png" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=400>
+> <img src="/IHC/imagens/duolingo2.jpg" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=300> <img src="/IHC/imagens/duolingo1.png" alt="Exemplo Negativo de Controle e Liberdade do Usuário" width=auto height=300>
 
 ## 4. Consistência e Padrões 🌱
 - Mantenha consistência dentro do produto e siga padrões estabelecidos pela indústria.
-- Exemplo Negativo: ![Exemplo Negativo de Consistência e Padrões](imagem4.png)
-  - Um site de notícias que muda o layout e a organização das páginas em cada seção, confundindo os usuários.
+> A plataforma "Carlos Chagas CNPq" conta com um layout e organização inconsistente das páginas.
+> <img src="/IHC/imagens/carlosChagas1.png" alt="Exemplo Negativo de Consistência e Padrões" width=auto height=300> <img src="/IHC/imagens/carlosChagas2.png" alt="Exemplo Negativo de Consistência e Padrões" width=auto height=300>
 
 ## 5. Prevenção de Erros 🌱
 - Evite problemas antes que eles ocorram, eliminando condições propensas a erros ou fornecendo opções de confirmação.
