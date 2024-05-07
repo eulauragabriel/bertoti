@@ -38,8 +38,6 @@
 
 ## 6. Reconhecimento em Vez de Memorização 🌱
 - Reduza a carga cognitiva dos usuários, tornando elementos e opções visíveis.
-- Exemplo Negativo: ![Exemplo Negativo de Reconhecimento em Vez de Memorização](imagem6.png)
-  - Um site de comércio eletrônico que não fornece sugestões de produtos relacionados durante a navegação, forçando os usuários a memorizar o que procurar.
 
 ## 7. Flexibilidade e Eficiência de Uso 🌱
 - Ofereça atalhos e personalizações para usuários experientes.
@@ -59,10 +57,6 @@
 
 ## 9. Ajuda os Usuários a Reconhecer, Diagnosticar e Corrigir Erros 🌱
 - Forneça mensagens de erro claras e soluções construtivas.
-- Exemplo Negativo: ![Exemplo Negativo de Ajuda a Reconhecer, Diagnosticar e Corrigir Erros](imagem9.png)
-  - Um site de aplicativo móvel que exibe mensagens de erro genéricas e não oferece orientação sobre como resolver o problema.
 
 ## 10. Ajuda e Documentação 🌱
 - Ofereça documentação fácil de encontrar e focada na tarefa do usuário.
-- Exemplo Negativo: ![Exemplo Negativo de Ajuda e Documentação](imagem10.png)
-  - Um site de serviço de assinatura que esconde o link para o suporte ao cliente e fornece uma base de conhecimento desorganizada e difícil de navegar.
