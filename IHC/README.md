@@ -60,7 +60,7 @@
 >
 > A plataforma "SIGA" não informa ao usuário qual seria o seu "Usuário" (no caso, seria o CPF) para realizar o login, o que pode levar o usuário ao erro.
 > 
-> <a href="https://imgur.com/uhOT6AU"> <img src="https://i.imgur.com/uhOT6AU.jpg" title="Exemplo de Ajuda os Usuários a Reconhecer, Diagnosticar e Corrigir Erros"  width=auto height=300 /></a>
+> <img src="https://i.imgur.com/uhOT6AU.jpg" title="Exemplo de Ajuda os Usuários a Reconhecer, Diagnosticar e Corrigir Erros"  width=auto height=300 />
 
 ## 10. Ajuda e Documentação 🌱
 - Ofereça documentação fácil de encontrar e focada na tarefa do usuário.
