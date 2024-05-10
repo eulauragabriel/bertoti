@@ -64,3 +64,7 @@
 
 ## 10. Ajuda e Documentação 🌱
 - Ofereça documentação fácil de encontrar e focada na tarefa do usuário.
+>
+> O aplicativo "Duolingo" faz com que o usuário precise sair da aplicação para consultar os termos de uso e a central de ajuda em um navegador, o que é um inconveniente que dificulta a acessibilidade a Ajuda e Documentação.
+>
+> <img src="https://i.imgur.com/9jSrv6C.jpg" title="Exemplos de Ajuda e Documentação" width=auto height=300 /> <img src="https://i.imgur.com/cPxzC6u.jpg" title="Exemplos de Ajuda e Documentação" width=auto height=300 /> <img src="https://i.imgur.com/g6GzIHv.jpg" title="Exemplos de Ajuda e Documentação" width=auto height=300 /> <img src="https://i.imgur.com/e66TGy3.jpg" title="Exemplos de Ajuda e Documentação" width=auto height=300 />
